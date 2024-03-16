@@ -1,5 +1,5 @@
 
-# Hi, I'm Deepak! 👋
+# Hi, I'm Niranjan 👋
 
 This is my Portfolio website here i am representing about myself and i will also help you to build your career as well as software developer.
  ####    you may use my Portfolio template.
@@ -8,7 +8,7 @@ This is my Portfolio website here i am representing about myself and i will also
 Clone the project
 
 ```bash
-  git clone https://github.com/Deepumandal/new-portfolio.git
+  git clone https://github.com/Deepumandal/new-portfolio.git](https://github.com/alaniranjan/myportfolio.git)
 ```
 
 Go to the project directory
