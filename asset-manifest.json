@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.216888ee.css",
+    "main.js": "/static/js/main.c8e868aa.js",
+    "static/css/309.c2a13326.chunk.css": "/static/css/309.c2a13326.chunk.css",
+    "static/js/309.e3a97bef.chunk.js": "/static/js/309.e3a97bef.chunk.js",
+    "static/js/221.e15899f3.chunk.js": "/static/js/221.e15899f3.chunk.js",
+    "static/js/254.639aee9b.chunk.js": "/static/js/254.639aee9b.chunk.js",
+    "static/css/99.c2a13326.chunk.css": "/static/css/99.c2a13326.chunk.css",
+    "static/js/99.8b671805.chunk.js": "/static/js/99.8b671805.chunk.js",
+    "static/js/829.2771f897.chunk.js": "/static/js/829.2771f897.chunk.js",
+    "static/css/730.e5c834a1.chunk.css": "/static/css/730.e5c834a1.chunk.css",
+    "static/js/730.177ce277.chunk.js": "/static/js/730.177ce277.chunk.js",
+    "static/js/971.b96385f9.chunk.js": "/static/js/971.b96385f9.chunk.js",
+    "static/media/Allise.ttf": "/static/media/Allise.add9f08f0e3a59490813.ttf",
+    "static/media/adine-kirnberg.regular.ttf": "/static/media/adine-kirnberg.regular.3b12be67cb2b98a1477b.ttf",
+    "index.html": "/index.html",
+    "main.216888ee.css.map": "/static/css/main.216888ee.css.map",
+    "main.c8e868aa.js.map": "/static/js/main.c8e868aa.js.map",
+    "309.c2a13326.chunk.css.map": "/static/css/309.c2a13326.chunk.css.map",
+    "309.e3a97bef.chunk.js.map": "/static/js/309.e3a97bef.chunk.js.map",
+    "221.e15899f3.chunk.js.map": "/static/js/221.e15899f3.chunk.js.map",
+    "254.639aee9b.chunk.js.map": "/static/js/254.639aee9b.chunk.js.map",
+    "99.c2a13326.chunk.css.map": "/static/css/99.c2a13326.chunk.css.map",
+    "99.8b671805.chunk.js.map": "/static/js/99.8b671805.chunk.js.map",
+    "829.2771f897.chunk.js.map": "/static/js/829.2771f897.chunk.js.map",
+    "730.e5c834a1.chunk.css.map": "/static/css/730.e5c834a1.chunk.css.map",
+    "730.177ce277.chunk.js.map": "/static/js/730.177ce277.chunk.js.map",
+    "971.b96385f9.chunk.js.map": "/static/js/971.b96385f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216888ee.css",
+    "static/js/main.c8e868aa.js"
+  ]
+}
